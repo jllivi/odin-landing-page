@@ -30,11 +30,29 @@ a {
 
 .first-section {
     width: 100%;
-    height: 500px;
+    height: 450px;
     background-color: #1F2937;
 }
 
 .header-bottom {
-    padding-top: 150px;
+    padding-top: 100px;
     display: flex;
+    gap: 100px;
+    color: #e5e7eb;
+    font-size: 17px;
+    padding-left: 200px;
+}
+
+.header-bottom .left-column {
+    width: 30%;
+}
+
+.header-bottom .title {
+    font-size: 50px;
+    color: #e5e7eb;
+    font-weight: bold;
+}
+
+.header-bottom .subtext {
+    width: 115%;
 }
