@@ -68,3 +68,64 @@ a {
     font-weight: bold;
     font-size: 16px;
 }
+
+.second-section .sub-title {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.second-section .images {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    gap: 0px 40px;
+}
+
+.image-one {
+    display: flex;
+    flex-direction: column;
+}
+.image-one div{
+    width: 150px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.image-two {
+    display: flex;
+    flex-direction: column;
+}
+.image-two div{
+    width: 150px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.image-three {
+    display: flex;
+    flex-direction: column;
+}
+.image-three div{
+    width: 150px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.image-four {
+    display: flex;
+    flex-direction: column;
+}
+.image-four div{
+    width: 150px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 5px;
+}
