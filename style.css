@@ -56,3 +56,15 @@ a {
 .header-bottom .subtext {
     width: 115%;
 }
+
+.left-column button{
+    margin-top: 15px;
+    width: 125px;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+    background-color: #2591ea;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+}
