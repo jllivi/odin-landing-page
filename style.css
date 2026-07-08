@@ -5,11 +5,12 @@ body {
 
 .header{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     padding-top: 20px;
+    gap: 450px;
 }
+
 .header .logo {
-    margin-right: 250px;
     font-size: 24px;
     color: #f9faf8;
     font-weight: 900;
