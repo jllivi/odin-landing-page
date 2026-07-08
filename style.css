@@ -138,14 +138,19 @@ a {
 .third-section {
     display: flex;
     flex-direction: column;
-    height: 300px;
-    background-color: rgb(246, 243, 243);
-    justify-content: center;
+    height: 400px;
+    background-color: rgb(234, 234, 236);
     align-items: center;
+    justify-content: center;
 }
 
 .third-section .quote {
-    width: 23%;
-    font-size: 26px;
+    width: 775px;
+    font-size: 34px;
     font-weight: 100;
+}
+.third-section .quotee {
+    margin-left: 480px;
+    font-weight: bold;
+    font-size: 24px;
 }
